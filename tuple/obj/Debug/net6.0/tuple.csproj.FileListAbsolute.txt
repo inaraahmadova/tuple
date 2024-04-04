@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\tuple\tuple\bin\Debug\net6.0\tuple.exe
+C:\Users\Hp\Desktop\tuple\tuple\bin\Debug\net6.0\tuple.deps.json
+C:\Users\Hp\Desktop\tuple\tuple\bin\Debug\net6.0\tuple.runtimeconfig.json
+C:\Users\Hp\Desktop\tuple\tuple\bin\Debug\net6.0\tuple.dll
+C:\Users\Hp\Desktop\tuple\tuple\bin\Debug\net6.0\tuple.pdb
+C:\Users\Hp\Desktop\tuple\tuple\obj\Debug\net6.0\tuple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\tuple\tuple\obj\Debug\net6.0\tuple.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\tuple\tuple\obj\Debug\net6.0\tuple.AssemblyInfo.cs
+C:\Users\Hp\Desktop\tuple\tuple\obj\Debug\net6.0\tuple.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\tuple\tuple\obj\Debug\net6.0\tuple.dll
+C:\Users\Hp\Desktop\tuple\tuple\obj\Debug\net6.0\refint\tuple.dll
+C:\Users\Hp\Desktop\tuple\tuple\obj\Debug\net6.0\tuple.pdb
+C:\Users\Hp\Desktop\tuple\tuple\obj\Debug\net6.0\tuple.genruntimeconfig.cache
+C:\Users\Hp\Desktop\tuple\tuple\obj\Debug\net6.0\ref\tuple.dll
